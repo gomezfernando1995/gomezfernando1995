@@ -1,5 +1,5 @@
 ### Hola como va ? ,  este sector esta en construccion 👋
-- 🌱 Por el momento soy estudiante y estoy aprendiendo ...
+- 🌱 Por el momento soy estudiante en curso, tiempo al tiempo ...
 
 <!--
 **gomezfernando1995/gomezfernando1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
