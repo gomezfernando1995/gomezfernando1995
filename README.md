@@ -1,17 +1,18 @@
-### Hola como va ? ,  este sector esta en construccion 👋
-- 🌱 Por el momento soy estudiante en curso, tiempo al tiempo ...
+# Bienvenido!  Me presento me llamo Fernando   :relieved:👋 
+### Bueno ya sabes mi nombre ahora lo importante :small_red_triangle_down:
 
-<!--
-**gomezfernando1995/gomezfernando1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>## ¿ Que estudio ?
+>- :pencil2: En respuesta a esto, justo en este momento del año 22 estudio Analista de Sitemas 
+>- :stars: Estudio en el Instituto Tecnologico Beltran y estoy cursando el 2° año, tiempo al tiempo  ...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+>## Mis Metas :rocket:
+>- :computer: Mi objetivo es ser desarrollador FullStack 
+>- :flags: Ansioso de formar parte de este gran sistema de forma profesional 
+>- :bomb: Mucho proyectos en camino 
+
+### Si me precisas no dudes en contactarme en mis redes 
+
