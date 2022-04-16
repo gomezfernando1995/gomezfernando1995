@@ -2,7 +2,7 @@
 ###   Bueno ya sabes mi nombre ahora lo importante :small_red_triangle_down:  
 ---
 >## ¿ Que estudio ?  
->- :pencil2: En respuesta a esto, justo en este momento del año 22 estudio Analista de Sitemas 
+>- :pencil2: Justo en este momento estudio para ser Analista de Sitemas 
 >- :stars: Estudio en el Instituto Tecnologico Beltran y estoy cursando el 2° año, tiempo al tiempo  ...
 ***
 
