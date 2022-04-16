@@ -1,4 +1,4 @@
-# Bienvenido!  Me presento me llamo Fernando   :relieved:👋 
+# Welcome to my Github!  My name is Fernando   :relieved:👋 
 ### Bueno ya sabes mi nombre ahora lo importante :small_red_triangle_down:
 
 >## ¿ Que estudio ?
