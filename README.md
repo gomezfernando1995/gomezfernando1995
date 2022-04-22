@@ -1,5 +1,5 @@
 # <center> Welcome to my Github!  My name is Fernando   :relieved:👋 </center>  
-###   Bueno ya sabes mi nombre ahora lo importante :small_red_triangle_down:  
+###   Well you know my name, now the most important ! :small_red_triangle_down:  
 ---
 >## ¿ Que estudio ?  
 >- :pencil2: Justo en este momento estudio para ser Analista de Sitemas 
