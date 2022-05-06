@@ -9,7 +9,8 @@
 ***
 >## My Goals :rocket: ##  
 >- :computer: My goal is to be a fullstack developer
->- :flags: Ansioso de ser parte de este gran sistema de forma profesional 
->- :bomb: Mucho proyectos en   camino 
+>- :flags: Learn new technologies 
+>- :flags: Be a professional developer
+>- :bomb: Lots of projects on the way
 ---
 
