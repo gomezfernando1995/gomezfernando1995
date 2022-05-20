@@ -10,7 +10,7 @@
 >## My Goals :rocket: ##  
 >- :computer: My goal is to be a fullstack developer
 >- :flags: Learn new technologies 
->- :flags: Be a professional developer
+>- :flags: Be professional developer
 >- :bomb: Lots of projects on the way
 ---
 
