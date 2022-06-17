@@ -1,16 +1,15 @@
-# <center> Welcome to my Github!  My name is Fernando   :relieved:👋 </center>  
-###   Well you know my name, now the most important ! :small_red_triangle_down:  
+# <center>Bienvenido a mi Github!  Me llamo fernando   :relieved:👋 </center>  
+###   Bueno ya conoces mi nombre, ahora lo mas importante ! :small_red_triangle_down:  
 ***
->## ¿ What I study ? ##
->- :pencil2: I study for be Systems Analytic 
->- :stars: I study at the Beltran institute located in Avellaneda and course second year of the career ...
+>## ¿Qué estudio ? ##
+>- :pencil2: Estudio para ser Analista de Sistema 
+>- :stars: El mismo la curso en Instituto Beltran ubicado en avellaneda y estoy cursando el segundo año ...
 ***
 
 ***
->## My Goals :rocket: ##  
->- :computer: My goal is to be a fullstack developer
->- :flags: Learn new technologies 
->- :flags: Be professional developer
->- :bomb: Lots of projects on the way
+>## Mis objetivos :rocket: ##  
+>- :computer: Ser un fullstack
+>- :flags: Aprender nuevas tecnologias, ayudar a la sociedad y esta cultura tan hermosa 
+>- :bomb: Terminar los proyectos que tengo en mente 
 ---
 
